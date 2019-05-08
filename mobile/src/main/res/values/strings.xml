@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Map2Watch</string>
+    <string name="permission_denied">Permission denied, do to settings to gran the permission</string>
+    <string name="requires_permission">Application requires assess to user Location</string>
+    <string name="ok">ok</string>
+    <string name="permission_granted">Permission granted</string>
+</resources>
